@@ -30,6 +30,7 @@ body {
   align-items: center;
   justify-content: center;
   width: 100vw;
+  min-height: 100vh;
   font-family: var(--font-family);
   background-color: var(--grey-blue);
 }
